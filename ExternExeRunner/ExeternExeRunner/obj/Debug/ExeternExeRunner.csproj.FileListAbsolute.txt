@@ -1,0 +1,7 @@
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\bin\Debug\ExeternExeRunner.exe.config
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\bin\Debug\ExeternExeRunner.exe
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\bin\Debug\ExeternExeRunner.pdb
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\obj\Debug\ExeternExeRunner.csprojAssemblyReference.cache
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\obj\Debug\ExeternExeRunner.csproj.CoreCompileInputs.cache
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\obj\Debug\ExeternExeRunner.exe
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExeternExeRunner\obj\Debug\ExeternExeRunner.pdb

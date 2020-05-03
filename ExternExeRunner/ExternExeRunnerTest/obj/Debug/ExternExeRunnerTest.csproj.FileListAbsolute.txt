@@ -1,0 +1,14 @@
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\ExternExeRunnerTest.dll
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\ExternExeRunnerTest.pdb
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\ExeternExeRunner.exe
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\ExeternExeRunner.pdb
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\ExeternExeRunner.exe.config
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\obj\Debug\ExternExeRunnerTest.csprojAssemblyReference.cache
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\obj\Debug\ExternExeRunnerTest.csproj.CoreCompileInputs.cache
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\obj\Debug\ExternExeRunnerTest.csproj.CopyComplete
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\obj\Debug\ExternExeRunnerTest.dll
+D:\Study Good\大三下\敏捷开发\project\ExeternExeRunner-master\ExeternExeRunner-master\ExternExeRunnerTest\obj\Debug\ExternExeRunnerTest.pdb

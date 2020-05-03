@@ -1,0 +1,6 @@
+D:\Study Good\大三下\敏捷开发\project\WindowsFormsApp1\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll
+D:\Study Good\大三下\敏捷开发\project\WindowsFormsApp1\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.pdb
+D:\Study Good\大三下\敏捷开发\project\WindowsFormsApp1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.CoreCompileInputs.cache
+D:\Study Good\大三下\敏捷开发\project\WindowsFormsApp1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.dll
+D:\Study Good\大三下\敏捷开发\project\WindowsFormsApp1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.pdb
+D:\Study Good\大三下\敏捷开发\project\WindowsFormsApp1\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csprojAssemblyReference.cache

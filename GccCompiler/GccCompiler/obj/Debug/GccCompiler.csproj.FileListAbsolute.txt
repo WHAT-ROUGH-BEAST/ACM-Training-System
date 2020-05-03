@@ -1,0 +1,7 @@
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\bin\Debug\GccCompiler.exe.config
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\bin\Debug\GccCompiler.exe
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\bin\Debug\GccCompiler.pdb
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\obj\Debug\GccCompiler.csprojAssemblyReference.cache
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\obj\Debug\GccCompiler.csproj.CoreCompileInputs.cache
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\obj\Debug\GccCompiler.exe
+D:\Study Good\大三下\敏捷开发\project\GccCompiler\GccCompiler\obj\Debug\GccCompiler.pdb
