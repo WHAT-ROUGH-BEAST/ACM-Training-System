@@ -62,7 +62,7 @@ namespace GccCompiler
             // 执行
             try
             {
-                ExeCmd(Settings["Compiler"] + " -o " + StrBuilder.ToString() + " " + Addr);
+                ExeCmd(" -o " + StrBuilder.ToString() + " " + Addr);
                 return StrBuilder.ToString();
             }
             catch (CompileErrException e)
@@ -89,8 +89,8 @@ namespace GccCompiler
             try
             {
                 GccProcess = new Process();
-                GccProcess.StartInfo.FileName = Settings["Shell"]; // Windows控制台，大家的位置应该都一样
-                GccProcess.StartInfo.Arguments = "/c " + Cmd; // 加"/c "，在执行Cmd后立即返回
+                GccProcess.StartInfo.FileName = Settings["Compiler"]; // Windows控制台，大家的位置应该都一样
+                GccProcess.StartInfo.Arguments = Cmd; // 加"/c "，在执行Cmd后立即返回
                 GccProcess.StartInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
                 GccProcess.StartInfo.RedirectStandardOutput = true;
                 GccProcess.StartInfo.RedirectStandardError = true;
@@ -143,7 +143,6 @@ namespace GccCompiler
 
             Settings = new Dictionary<string, string>();
             Settings.Add("Compiler", CompilerPath);
-            Settings.Add("Shell", ShellPath);
         }
     }
 
