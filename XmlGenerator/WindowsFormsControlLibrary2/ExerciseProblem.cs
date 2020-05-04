@@ -2,7 +2,8 @@
 namespace CTrainingSystem
 {
     using System.Collections.Generic;
-    
+    using System.Runtime.Serialization;
+
     // contain methods to properly read exercise problems from text files
     public class ReadTextProblem
     {             
@@ -161,6 +162,7 @@ namespace CTrainingSystem
 
     }
 
+    [DataContract]
     public class ExerciseProblem
     {
         static readonly string NameIdentifier = "name:";
@@ -235,13 +237,35 @@ namespace CTrainingSystem
         }           
 
         // fields
-        public string Name;
-        public string Description;
+        [DataMember]
+        private string Name;
+        [DataMember]
+        private string Description;
         // ok
+        [DataMember]
         public List<List<object>> TestInputs = new List<List<object>>();
+        [DataMember]
         public List<List<object>> TestOutputs = new List<List<object>>();
 
-        
+        public string GetName()
+        {
+            return this.Name;
+        }
+
+        public string GetDes()
+        {
+            return this.Description;
+        }
+
+        public List<List<object>> GetIn()
+        {
+            return TestInputs;
+        }
+
+        public List<List<object>> GetOut()
+        {
+            return TestOutputs;
+        }
     }
     
     public class TestClass
@@ -261,8 +285,8 @@ namespace CTrainingSystem
         static void PrintExerciseProblem(ExerciseProblem problem)
         {
             System.Console.WriteLine();
-            System.Console.WriteLine("Name:\n{0}\n", problem.Name);
-            System.Console.WriteLine("Description:\n{0}\n", problem.Description);
+            System.Console.WriteLine("Name:\n{0}\n", problem.GetName());
+            System.Console.WriteLine("Description:\n{0}\n", problem.GetDes());
             System.Console.WriteLine("Counts: {0}\n", problem.TestInputs.Count);
             System.Console.WriteLine("TestInput:");
             PrintListOfList(problem.TestInputs);
